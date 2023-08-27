@@ -116,7 +116,8 @@ nav ul li a:hover::after{
     /* background-color: tomato; */
     height: 400px;
     width: 100%;
-
+    margin-bottom: 40px;
+    margin-top: 20px;
 }
 
 .about-col-1{
@@ -493,7 +494,7 @@ form .btn2{
 #achievement .about-col-1 iframe {
     width: 100%; /* Make the video container take the full width of the parent element */
     height: 400px; /* Set a specific height for the video, adjust as needed */
-  }
+  }   
 
 #portfolio .work-list .work img {
     width: 100%; /* Make the images take the full width of the screen */
